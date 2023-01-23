@@ -1,0 +1,137 @@
+#conteneur {
+    border: medium black inset;
+    width: 700px;
+    height: 1158px;
+    margin: 0px auto 0px auto;
+    position: relative;
+
+
+}
+
+#corps
+{
+    position: relative;
+    background-color: silver;
+    width: 700px;
+    height: 770px;
+}
+#contenuDroite
+{
+    background-color: #303F3C;
+    width: 450px;
+    height: 1010px;
+    float: right;
+}
+#planGauche
+{
+    background-color: white;
+    width: 250px;
+    height: 975px;
+}
+#piedDePage
+{
+    background-color: #303F3C;
+    width: 700px;
+    height: 150px;
+    margin-top: 5%;
+    text-align: center;
+}
+#affiche {
+    float: left;
+    margin-left:10%;
+    margin-top: 10%;
+}
+img
+{
+    width : 215px;
+    height : 215px;
+}
+#contact
+{
+    float: left;
+    margin-left: 10%;
+}
+h3
+{
+    font-weight:bold ;
+}
+p
+{
+    font-weight: lighter;
+
+
+}
+#nom
+{
+    float: right;
+    margin-right: 40%;
+    margin-top: 10%;
+    color: #FFDF2B;
+}
+#etudiant
+{
+    float: right;
+    margin-right: 38%;
+    margin-top: 0%;
+    color:#ffffff ;
+}
+#moi
+{
+    float: right;
+    margin-top: 0%;
+    margin-right: 2%;
+    margin-left: 20%;
+    color: #FFDF2B;
+}
+
+#moi2
+{
+    float: right;
+    margin-top: 0%;
+    margin-right: 16%;
+    color: #ffffff;
+}
+
+.parcours
+{
+    float: right;
+    margin-top: 0%;
+    margin-right: 16%;
+    margin-left: 2%;
+    color: #FFDF2B;
+}
+
+#experiences
+{
+    float: right;
+    margin-top: 0%;
+    margin-right: 16%;
+    margin-left: 2%;
+    color: #FFDF2B;
+}
+.texte
+{
+    color: #ffffff;
+}
+.hr
+{
+    color: #FFDF2B;
+}
+
+.color
+{
+    color: black;
+}
+.image
+{
+    width : 50px;
+    height : 50px;
+    margin-right: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#reseau
+{
+  padding-top: 15px;
+    color:  #FFDF2B;
+}
